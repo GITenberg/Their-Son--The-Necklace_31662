@@ -1,0 +1,38 @@
+_repo: Their-Son--The-Necklace_31662
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: England, George Allan
+    birthdate: 1877
+    deathdate: 1936
+    gutenberg_agent_id: '2478'
+    url: http://www.gutenberg.org/2009/agents/2478
+    wikipedia: http://en.wikipedia.org/wiki/George_Allan_England
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Quintana, Eduardo Zamacois y
+    - Zamacois, E. (Eduardo)
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcc 'PQ'
+title: Their Son; The Necklace
+url: http://www.gutenberg.org/ebooks/31662
